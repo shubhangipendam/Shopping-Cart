@@ -1,4 +1,4 @@
-# Shopping-Card
+# Shopping-Cart
 **Overview of the Shopping Cart Project:**
 
 #Project description
